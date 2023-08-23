@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedrop95
-- 👀 I’m interested in Python3, Bioinformatics
-- 🌱 I’m currently learning Biology (specially genetics), Pyhton3
-- 💞️ I’m looking to collaborate on Python and bioinformatics projects
+- 👀 I’m interested in Java, JavaScript
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 How to reach me: pedroarantes95@gmail.com
 
 <!---
